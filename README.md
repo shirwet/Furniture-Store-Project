@@ -3,7 +3,7 @@
 
 Manufacture dataset of a furniture superstore for 2 years. Contain dummy data and global superstore data from http://www.tableau.com/sites/default/files/training/global_superstore.zip Perform EDA and Predict the sales by using the Training dataset! You can reach it in 
 
-https://www.kaggle.com/datasets/zhoumeixing/furniture-superstore-2017-2018
+# https://www.kaggle.com/datasets/zhoumeixing/furniture-superstore-2017-2018
 
 •	Data Collection: 
 It is collected from all over the world, and it is for two years
